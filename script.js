@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: "Quem recosntruiu o muro de Jrusalém em 52 dias?",
+        question: "Quem recosntruiu o muro de Jerusalém em 52 dias?",
         options: ["Ester", "Naamã", "Elias", "Neemias"],
         answer: "Neemias"
     },
@@ -15,7 +15,7 @@ const quizData = [
         answer: "Eliseu"
     },
     {
-        question: "Quem ficou temporariamente surdo no Novo Testamento?",
+        question: "Quem ficou temporariamente mudo no Novo Testamento?",
         options: ["Paulo", "Zacarias", "Simeão", "Pedro"],
         answer: "Zacarias"
     },
