@@ -1,13 +1,13 @@
 const quizData = [
     {
-        question: "Qual é a capital do Brasil?",
-        options: ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador"],
-        answer: "Brasília"
+        question: "Quem recosntruiu o muro de Jrusalém em 52 dias?",
+        options: ["Ester", "Naamã", "Elias", "Neemias"],
+        answer: "Neemias"
     },
     {
-        question: "Qual é o maior planeta do Sistema Solar?",
-        options: ["Terra", "Marte", "Júpiter", "Saturno"],
-        answer: "Júpiter"
+        question: "Qual o maior capitulo da Biblia?",
+        options: ["Salmos 119", "João 16", "Mateus 25", "Neemias 2"],
+        answer: "Salmos 119"
     },
     {
         question: "Qual profeta era calvo e chegou a ser zombado pela sua aparência?",
@@ -18,6 +18,11 @@ const quizData = [
         question: "Quem ficou temporariamente surdo no Novo Testamento?",
         options: ["Paulo", "Zacarias", "Simeão", "Pedro"],
         answer: "Zacarias"
+    },
+    {
+        question: "Qual o nome da mãe de Isaque?",
+        options: ["Penina", "Sara", "Raquel", "Hagar"],
+        answer: "Sara"
     },
 ];
 
