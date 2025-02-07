@@ -9,7 +9,16 @@ const quizData = [
         options: ["Terra", "Marte", "Júpiter", "Saturno"],
         answer: "Júpiter"
     },
-    // Adicione mais perguntas aqui
+    {
+        question: "Qual profeta era calvo e chegou a ser zombado pela sua aparência?",
+        options: ["Eliseu", "Jonas", "Samuel", "Elias"],
+        answer: "Eliseu"
+    },
+    {
+        question: "Quem ficou temporariamente surdo no Novo Testamento?",
+        options: ["Paulo", "Zacarias", "Simeão", "Pedro"],
+        answer: "Zacarias"
+    },
 ];
 
 const questionEl = document.getElementById("question");
