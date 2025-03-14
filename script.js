@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: "Quem recosntruiu o muro de Jerusalém em 52 dias?",
+        question: "Quem reconstruiu o muro de Jerusalém em 52 dias?",
         options: ["Ester", "Naamã", "Elias", "Neemias"],
         answer: "Neemias"
     },
